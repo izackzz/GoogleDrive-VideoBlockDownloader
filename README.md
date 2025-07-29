@@ -48,4 +48,4 @@ O arquivo final será salvo em uma nova pasta, criada com o mesmo nome do arquiv
 
 ---
 
-```**by [@yMusashi](https://t.me/yMusashi) | [@Prometheust](https://t.me/Prometheust)**```
+**by [@yMusashi](https://t.me/yMusashi) | [@Prometheust](https://t.me/Prometheust)**
